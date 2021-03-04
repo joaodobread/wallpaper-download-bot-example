@@ -1,0 +1,7 @@
+{
+    "terms": ["cars"],
+    "params": {
+        "orientation": "landscape",
+        "color": "black_and_white"
+    }
+}
