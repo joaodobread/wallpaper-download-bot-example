@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 selenium = "*"
 pywin32 = "*"
+requests = "*"
 
 [dev-packages]
 

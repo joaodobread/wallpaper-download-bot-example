@@ -1,3 +1,6 @@
 {
-    "download.default_directory": "C:/Users/joaov/Documents/python-bot/drivers/downloads"
+    "download.default_directory": "C:/Users/joaov/Documents/wallpaper-download-bot-example/downloads",
+    "download.prompt_for_download": false,
+    "download.directory_upgrade": true,
+    "safebrowsing.enabled": true
 }
